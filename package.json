@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "APIs for telecom customer management system",
+  "main": "y",
+  "repository": "https://github.com/akshayvmkadam/telecom-backend.git",
+  "author": "Akshay Kadam",
+  "license": "y",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}

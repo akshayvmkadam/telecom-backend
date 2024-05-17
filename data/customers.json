@@ -1,0 +1,81 @@
+{
+  "customers": [
+    {
+      "name": "Ervin Howell",
+      "dob": "11/08/2016",
+      "email": "Shanna@melissa.tv",
+      "phone": "9876543210",
+      "regdate": "15/04/2022",
+      "aadhar": "123445678910"
+    },
+    {
+      "name": "name1",
+      "email": "safd@asfas.asa",
+      "dob": "2025-02-23",
+      "phone": "1234567896",
+      "aadhar": "789456132321",
+      "regdate": "16/11/2023",
+      "plan": {
+        "id": 2,
+        "name": "Gold180",
+        "cost": 299,
+        "validity": 180,
+        "status": false
+      }
+    },
+    {
+      "name": "Patricia Lebsack",
+      "dob": "11/08/2016",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "9876543210",
+      "regdate": "10/05/2020",
+      "aadhar": "123445678910"
+    },
+    {
+      "name": "aks",
+      "email": "aks@asdasd.com",
+      "dob": "1993-01-16",
+      "phone": "9920403495",
+      "aadhar": "123456789633",
+      "regdate": "2024-05-05",
+      "plan": {
+        "id":1,
+        "name": "Platinum365",
+        "cost": 299,
+        "validity": 180,
+        "status": true
+      }
+    },
+    {
+      "name": "name2",
+      "email": "askjansf@adas.asd",
+      "dob": "2023-01-12",
+      "phone": "1234567896",
+      "aadhar": "123456789636",
+      "regdate": "2023-05-11"
+    }
+  ],
+  "plans": [
+    {
+      "id": 1,
+      "name": "Platinum365",
+      "cost": 499,
+      "validity": 365,
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Gold180",
+      "cost": 299,
+      "validity": 180,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Silver90",
+      "cost": 199,
+      "validity": 90,
+      "status": false
+    }
+  ]
+}
