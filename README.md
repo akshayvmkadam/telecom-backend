@@ -4,7 +4,6 @@ This assignment is a programming assignment wherein you have to build a backend 
 ## Table of Contents
 * [Problem Statement](#problem-statement)
 * [Objective](#objective)
-* [Steps Followed](#steps-followed)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -52,7 +51,7 @@ o Plan Status.
 - all customers: ![image](https://github.com/akshayvmkadam/telecom-backend/assets/65173499/72f3dea9-ffa3-4411-b10e-725dfc84ddd8)
 - specific customer: ![image](https://github.com/akshayvmkadam/telecom-backend/assets/65173499/a2902d78-a49b-4a0b-a9a2-8fb9819429ed)
 - plans: ![image](https://github.com/akshayvmkadam/telecom-backend/assets/65173499/c7953310-47b4-485f-950d-302321cf9259)
-- all the above fetch call have Update operations present
+- All the above fetch calls have Update operations present inside the routes.
 
 
 ## Technologies Used
