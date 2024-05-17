@@ -39,10 +39,10 @@
       "aadhar": "123456789633",
       "regdate": "2024-05-05",
       "plan": {
-        "id":1,
+        "id": 1,
         "name": "Platinum365",
-        "cost": 299,
-        "validity": 180,
+        "cost": 499,
+        "validity": 365,
         "status": true
       }
     },
@@ -53,6 +53,14 @@
       "phone": "1234567896",
       "aadhar": "123456789636",
       "regdate": "2023-05-11"
+    },
+    {
+      "name": "name3",
+      "email": "asaresf@asdas.as",
+      "dob": "2033-02-20",
+      "phone": "8986541333",
+      "aadhar": "123456789897",
+      "dor": "2023-12-01"
     }
   ],
   "plans": [

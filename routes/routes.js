@@ -3,10 +3,10 @@ import {customerRoutes} from './customers.js';
 import { planRoutes } from './plans.js';
 
 export const appRouter = (app) => {
-  // we've added in a default route here that handles empty routes
+  // added in a default route here that handles empty routes
   // at the base API url
   app.get('/', (req, res) => {
-    res.send('welcome to the development api-server');
+    res.send('Welcome to the development api-server');
   });
 
   // run customers and plans module here to complete the wire up
